@@ -45,3 +45,6 @@ return (
 }
 
 export default SpicyFoodList;
+
+
+
